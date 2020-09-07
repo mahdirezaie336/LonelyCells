@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1580486143 source:c:\users\mariyam\desktop\c final\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	<stdbool.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+	<conio.h>
+	"funcs.h"
+	"display.h"
+	"Actions.h"
+	"linkListFunctions.h"
+	"singlePlayer.h"
+	"multiPlayer.h"
+	"load.h"
+	"mapEditor.h"
+	"debugFunctions.h"
+
+1580489318 c:\users\mariyam\desktop\c final\finalproject\funcs.h
+
+1580465140 c:\users\mariyam\desktop\c final\finalproject\display.h
+
+1580491317 c:\users\mariyam\desktop\c final\finalproject\actions.h
+
+1580377666 c:\users\mariyam\desktop\c final\finalproject\debugfunctions.h
+
+1580377744 c:\users\mariyam\desktop\c final\finalproject\linklistfunctions.h
+
+1580491446 c:\users\mariyam\desktop\c final\finalproject\singleplayer.h
+
+1580491974 c:\users\mariyam\desktop\c final\finalproject\multiplayer.h
+
+1580403731 c:\users\mariyam\desktop\c final\finalproject\load.h
+
+1580492990 c:\users\mariyam\desktop\c final\finalproject\mapeditor.h
+
